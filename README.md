@@ -76,5 +76,4 @@ Les visualisations permettent notamment :
 
 ## 9. Auteur
 
-Projet réalisé par : [Ton nom]
-Rôle : Data analyst / conception du dashboard / analyse des données
+Projet réalisé par : BOLI GOTRE BI GOLA , ETTIEN ASSOUMOU ASA
